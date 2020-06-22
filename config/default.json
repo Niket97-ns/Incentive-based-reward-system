@@ -1,0 +1,10 @@
+{
+  "mongoURI": "mongodb+srv://Niket:Niketshah@97@cluster0-wgta1.mongodb.net/IBS?retryWrites=true&w=majority",
+  "points": {
+    "manager": 100,
+    "executive": 200,
+    "boardMember": 300,
+    "others": 40
+  },
+  "jwtSecret": "js_IBS_secret"
+}

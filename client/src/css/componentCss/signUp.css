@@ -1,0 +1,64 @@
+.error {
+  color:red;
+  font-size: smaller;
+}
+.fullnameLabel {
+  display: inline-block;
+  /* align-self: left; */
+  margin-left: 1rem;
+  float: left;
+}
+
+.passwordLabel {
+  display: inline-block;
+  margin-left: 1rem;
+  float: left;
+}
+
+.emailLabel {
+  display: inline-block;
+  margin-left: 1rem;
+  float: left;
+}
+
+.mobileNumberLabel {
+  display: inline-block;
+  margin-left: 1rem;
+  float: left;
+}
+
+.levelLabel {
+  /* display: inline-block; */
+  margin-left: 1rem;
+  float: left;
+}
+
+.referralCodeLabel {
+  display: block;
+  margin-left: 1rem;
+  float: left;
+}
+
+.selectInput {
+  /* display: block; */
+  /* margin-left: 1rem; */
+  float: left;
+  /* margin-bottom: 1rem; */
+}
+
+.signUpButtonDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 40px;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.signUpButton {
+  height: 100%;
+  width: 40%;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
